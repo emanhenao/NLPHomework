@@ -1,2 +1,2 @@
 # NLPCryptoSentiment
-NLP Crypto Sentiment Assignment 
+NLP Crypto Sentiment Project
